@@ -6,7 +6,7 @@ One of the following values:
 |----------------|--------------------------------------------------|
 | placed         | Order placed, not yet shipped                    |
 | shipped        | Order has been shipped, not yet been delivered   |
-| completed      | Order has been received by customers             |
+| completed      | Order has been received by customers on time     |
 | return pending | Customer indicated they want to return this item |
 | returned       | Item has been returned                           |
 
